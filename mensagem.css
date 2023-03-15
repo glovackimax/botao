@@ -1,0 +1,23 @@
+h1{
+    /*estilização geral*/
+    font-size: 25px;
+    margin-top: 180px;
+    text-align: center;
+    color: #3f3f3f;
+
+}
+
+.div1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+
+}
+
+body{
+    background-color: #C9B8A7;; 
+
+}
+
